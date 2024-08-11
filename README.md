@@ -17,3 +17,16 @@ Notes:
 
 ## UML design:
 ![image](https://github.com/user-attachments/assets/a3cadbb4-deda-4533-829f-72ef3815c1b0)
+
+## Sample run: 
+
+### Cashier:
+![image](https://github.com/user-attachments/assets/8fa4f840-4bf8-4210-8316-597ac6cb3848)
+
+### Store:
+![image](https://github.com/user-attachments/assets/a3ea4171-7142-4488-a256-65ab28ed2a15)
+
+### Features:
+![image](https://github.com/user-attachments/assets/559b88d3-d3e1-49bf-a64f-0b15dd67590c)
+
+
