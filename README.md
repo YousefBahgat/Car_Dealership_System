@@ -1,5 +1,6 @@
 # Scope of the project:
-Car selling system includes 3 parts:
+Car selling system includes 3 parts: 
+ 
 -simple cashier: to calculate the remainder of the paid value for the car including the price of the car and a tax for each car (profit ratio)
 -store: includes the total number of cars of each car model with specific color red, black, or white.
 -features: show the general specs of each car model.
